@@ -1,5 +1,7 @@
-title: Social Navigation
+title: Social Navigation for RoboComp
 description: 
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-tactile
 
+google_analytics: Social Navigation for RoboComp
+show_downloads: true
