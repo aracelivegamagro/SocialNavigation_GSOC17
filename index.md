@@ -17,7 +17,8 @@ For a more detailed explanation of the work done during GSOC'17 visit the follow
 3. [My progress](https://robocomp.github.io/web/gsoc/2017/araceli/post3)
 
 ## Content in GitHub
-The work done during GSOC'17 can be found in the following [link](https://github.com/aracelivegamagro/robocomp-shelly). 
+The work done during GSOC'17 can be found in the following github [repository](https://github.com/aracelivegamagro/robocomp-shelly). 
+
 Also, all the commits made for this project can be found in the following [link](https://github.com/aracelivegamagro/robocomp-shelly/commits/master). 
 
 
