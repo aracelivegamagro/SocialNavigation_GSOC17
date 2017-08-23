@@ -1,5 +1,5 @@
 ## Social Navigation
-My project for GSOC'17 has consisted in Social Navigation. The main goal has been to give mobile robots the capacity of behaving in a social acceptable manner
+My project for GSOC'17 has consisted in Social Navigation. The main goal has been to give mobile robots the capacity of behaving in a social acceptable manner.
 
 To achieve this aim, in first place, the personal space of humans has been modelled, which has allowed the robot to respect their personal space. Secondly, the present humans in the environment have been clustered according to their distances in order to avoid the robot interfering among interacting humans. The navigation architecture has been modified to allow the robot to recognize the personal space of the individuals and the different groups of people.
 
